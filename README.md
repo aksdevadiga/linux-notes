@@ -20,6 +20,3 @@ created as part of hands-on learning and practice.
 - Linux (Ubuntu)
 - Markdown
 - Git & GitHub
-=======
-
->>>>>>> 1d937afad6b53b96a117ee65452e4b853a212a06
